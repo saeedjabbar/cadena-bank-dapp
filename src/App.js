@@ -100,7 +100,7 @@ function App() {
     }
   }
 
-  const customerBalanceHanlder = async () => {
+  const customerBalanceHandler = async () => {
     try {
       if (window.ethereum) {
         const provider = new ethers.providers.Web3Provider(window.ethereum);
@@ -138,7 +138,7 @@ function App() {
         await txn.wait();
         console.log("Deposited money...done", txn.hash);
 
-        customerBalanceHanlder();
+        customerBalanceHandler();
 
       } else {
         console.log("Ethereum object not found, install Metamask.");
@@ -165,7 +165,7 @@ function App() {
         await txn.wait();
         console.log("Money with drew...done", txn.hash);
 
-        customerBalanceHanlder();
+        customerBalanceHandler();
 
       } else {
         console.log("Ethereum object not found, install Metamask.");
@@ -180,7 +180,7 @@ function App() {
     checkIfWalletIsConnected();
     getBankName();
     getbankOwnerHandler();
-    customerBalanceHanlder()
+    customerBalanceHandler()
   }, [isWalletConnected])
 
   return (
