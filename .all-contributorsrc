@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "dkayzee",
+      "name": "Daniel Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43211253?v=4",
+      "profile": "https://github.com/dkayzee",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "cadena-bank-dapp",
+  "projectOwner": "saeedjabbar",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
