@@ -100,7 +100,7 @@ function App() {
     }
   }
 
-  const customerBalanceHanlder = async () => {
+  const customerBalanceHandler = async () => {
     try {
       if (window.ethereum) {
         const provider = new ethers.providers.Web3Provider(window.ethereum);
