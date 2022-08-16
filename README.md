@@ -1,6 +1,6 @@
 # Cadena Bank DAPP
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is the completed code for the Bank DAPP.
@@ -23,6 +23,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/dkayzee"><img src="https://avatars.githubusercontent.com/u/43211253?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Kim</b></sub></a><br /><a href="https://github.com/saeedjabbar/cadena-bank-dapp/issues?q=author%3Adkayzee" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/elihuvillaraus"><img src="https://avatars.githubusercontent.com/u/9301701?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Morpheous</b></sub></a><br /><a href="https://github.com/saeedjabbar/cadena-bank-dapp/issues?q=author%3Aelihuvillaraus" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
